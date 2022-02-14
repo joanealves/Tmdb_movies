@@ -18,7 +18,7 @@ const App = () => {
       <div className="App">
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" exat={true} element={<Home />} />
           <Route path="sinopse" element={<Synopis />} />
         </Routes>
         <Footer></Footer>
