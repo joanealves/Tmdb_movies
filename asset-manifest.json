@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tmdb_movies/static/css/main.a794e25d.css",
-    "main.js": "/tmdb_movies/static/js/main.d091d246.js",
-    "index.html": "/tmdb_movies/index.html",
-    "main.a794e25d.css.map": "/tmdb_movies/static/css/main.a794e25d.css.map",
-    "main.d091d246.js.map": "/tmdb_movies/static/js/main.d091d246.js.map"
+    "main.css": "./static/css/main.a794e25d.css",
+    "main.js": "./static/js/main.93df96d3.js",
+    "index.html": "./index.html",
+    "main.a794e25d.css.map": "./static/css/main.a794e25d.css.map",
+    "main.93df96d3.js.map": "./static/js/main.93df96d3.js.map"
   },
   "entrypoints": [
     "static/css/main.a794e25d.css",
-    "static/js/main.d091d246.js"
+    "static/js/main.93df96d3.js"
   ]
 }
