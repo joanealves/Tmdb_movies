@@ -1,13 +1,13 @@
 
 import * as React from "react";
 import { Routes, Route } from "react-router-dom";
-import store from './data/store'
+import store from '../data/store'
 import { Provider } from 'react-redux'
 
-import Header from "./presentation/components/Header";
-import Home from "./presentation/pages/home"
-import Synopis from "./presentation/pages/synopsis";
-import Footer from "./presentation/components/Footer";
+import Header from "./components/Header";
+import Home from "./pages/home"
+import Synopis from "./pages/synopsis";
+import Footer from "./components/Footer";
 
 import './index.css';
 
