@@ -19,7 +19,7 @@ const App = () => {
         <Header />
         <Routes>
           <Route path="/Tmdb_movies" exat={true} element={<Home />} />
-          <Route path="/Tmdb_movies/sinopse" element={<Synopis />} />
+          <Route path="sinopse" element={<Synopis />} />
         </Routes>
         <Footer></Footer>
       </div>
