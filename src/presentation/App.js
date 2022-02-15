@@ -18,8 +18,8 @@ const App = () => {
       <div className="App">
         <Header />
         <Routes>
-          <Route path="/front-end-challenge" exat={true} element={<Home />} />
-          <Route path="/front-end-challenge/sinopse" element={<Synopis />} />
+          <Route path="/Tmdb_movies" exat={true} element={<Home />} />
+          <Route path="/Tmdb_movies/sinopse" element={<Synopis />} />
         </Routes>
         <Footer></Footer>
       </div>
